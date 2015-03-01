@@ -1,3 +1,6 @@
+#Created 4.20.13 by NR
+#AMDG
+
 from PIL import Image
 
 imgFileName = raw_input("Enter the name of the image file (with extension):")
